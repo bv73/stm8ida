@@ -16,7 +16,7 @@ STM8L15xR8
 
 STM8S005K6
 
-For compile module you need to install IDA to C:\idasdk68 and then install VS 2017 v141 with Win 10 SDK.
+For compile of module you need to install IDA to C:\idasdk68 and then install VS 2017 v141 with Win 10 SDK.
 If you don't want to install anything, use stm8.w32 file. Copy stm8.w32 to c:\ida68\procs dir and
 stm8.cfg to c:\ida68\cfg dir.
 
